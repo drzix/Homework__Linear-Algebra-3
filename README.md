@@ -7,4 +7,5 @@ python은 3 버전 이상에서 virtualenv 환경에서 사용합니다.
 
     $ python3 -m virtualenv venv
     $ . venv/bin/activate
+    $ pip install -r requirements.txt
     $ python ./run.py
